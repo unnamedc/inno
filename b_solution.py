@@ -94,9 +94,6 @@ else:
                 flag_three = False
                 count_first -= 1
                 count_two -= 1
- 
- 
- 
                 
         if count_three >= n:
             print(i + 1)
